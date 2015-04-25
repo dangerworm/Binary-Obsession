@@ -1,0 +1,11 @@
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\Binary Obsession.exe
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\Binary Obsession.pdb
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\Binary_Obsession.BinaryObsession.resources
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\Binary_Obsession.Properties.Resources.resources
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\bin\Debug\Binary Obsession.exe
+C:\Users\Drew\Dropbox\Programming Projects\C#\Binary Obsession\Binary Obsession\bin\Debug\Binary Obsession.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\Binary Obsession\Binary Obsession\obj\Debug\Binary Obsession.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\Binary Obsession\Binary Obsession\obj\Debug\Binary Obsession.pdb

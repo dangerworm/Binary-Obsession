@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Binary Obsession">
+</Property><Property Name="Solution File" Value="C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Binary Obsession.sln">
+</Property><Property Name="User Options File" Value="C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Binary Obsession.suo">
+</Property><Property Name="Date" Value="18 November 2011">
+</Property><Property Name="Time" Value="15:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Binary Obsession.sln" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Binary Obsession.suo" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession.suo">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Binary Obsession.csproj" Description="Project file successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Binary Obsession.csproj">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Binary Obsession.csproj.user" Description="Project user file successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Binary Obsession.csproj.user">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\BinaryObsession.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\BinaryObsession.cs">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\BinaryObsession.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\BinaryObsession.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Program.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Program.cs">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Binary Obsession_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Binary Obsession_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Properties\Settings.settings" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\BinaryObsession.resx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\BinaryObsession.resx">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Properties\Resources.resx" Description="File successfully backed up as C:\Users\gtcarm\Documents\Dropbox\Programming Projects\Binary Obsession\Backup\Binary Obsession\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Binary Obsession.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Binary Obsession" Source="Binary Obsession\Binary Obsession.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Binary Obsession.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Binary Obsession.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Binary Obsession" Source="Binary Obsession\Binary Obsession.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
